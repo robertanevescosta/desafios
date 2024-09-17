@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+table {
+
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    
+}
+th, td {
+    border: 1px solid black;
+}
+.num {
+    text-align: center;
+}
+ tr > th {
+    background-color: rgba(5, 126, 5, 0.629);
+ }
+ .dados {
+    background-color: aliceblue;
+ }
